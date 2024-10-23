@@ -1,0 +1,50 @@
+<html>
+<title>Simple Html Tag</title>
+<body>
+<marquee>Simple Html Tag</marquee>
+<center><FONT COLOR="#000077">Heading Tags<Font></center>
+<h1>Computer</h1>
+<h2>Computer</h2>
+<h3>Computer</h3>
+<h4>Computer</h4>
+<h5>Computer</h5>
+<h6>Computer</h6>
+<center><FONT TAGS="#000077">Text Tags<Font></center>
+<p>this is a pragraph</p>
+<hr>
+<center><FONT COLOR="#000077">Line Break Tags<Font></center>
+line before line break<br>
+text after line break<br>
+line break tag is used to quite frequently<br><hr>
+<center><FONT COLOR="#000077">Block Quote Tags<Font></center>
+<p>This is some text before the quotation</p>
+<block quote> This is long block quote centered with the <block quote>
+tag</block quote>
+<center><FONT COLOR="#000077">Pre Tags<Font></center>
+<pr>
+SCOTT COLLEGE | 1893 NAGERCOIL
+</pr>
+<hr>
+<center><FONT COLOR="#000077">Physical Style<Font></center>
+This is <b>bold</b> This is bold<br>
+This is <big>big font</big> This is big font<br>
+This is <i>i table</i> This is i table<br>
+was<s>$</s>;now$40 was$50,now$40<br>
+This is <small>small</small> This is small<br>
+H<sub>2</sub>O this is sub script<br>
+may5<sup>th</sup> this is super script<br>
+<tt> Fixed width font</tt> Fixed width font<br>
+This is <u>underlined</u> This is underlined<br>
+<br><hr>
+<center><FONT COLOR="#000077">Logical style<Font></center>
+This is used for short <cite>quote quote</cite>This is used for short quote<br>
+<del>Delete </del>Delete tag<br>
+<dfn>Definition </dfn>Definition tag<br>
+<em> emphasized </em>This is emphasized<br>
+<ins>inserted </ins>inserted text<br>
+<kbd>print("hello world")</kbd>sample code sample<br>
+This is <strong>strong</strong> this is strong text<br>
+<br>
+<hr>
+</body>
+</html>

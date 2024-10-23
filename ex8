@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <img src="electronics.jpg"  alt="workplace" usemap="#workmap">
+        <map name="workmap">
+            <area  shape="rect" coords="166,412,1,55" alt="phone" title="phone" href="https://en.wikipedia.org/wiki/Mobile_phone">
+            <area  shape="circle" coords="541,230,74" alt="mouse" title="mouse" href="https://en.wikipedia.org/wiki/Computer_mouse">
+            <area  shape="recct" coords="186,13,451,368" alt="computer" title="computer" href="https://en.wikipedia.org/wiki/Computer">
+        </map>
+    </body>
+</html>

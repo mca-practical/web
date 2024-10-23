@@ -1,0 +1,70 @@
+<html>
+
+    <head>
+        <title>RESUME</title>
+    </head>
+
+    <body  border-style:solid; border-width:5px;>
+
+        <style>
+            body {
+                background-color: black;
+                color: white;
+                border-color: aqua;
+                border-style: solid;
+                border-width: 2px;
+                padding: 40px;
+                margin: 40px;
+                font-size: 15px;
+            }
+
+            h1 {
+                color: aqua;
+            }
+        </style>
+
+        <h1><center>RESUME<center></h1>
+
+        <img src="mypic.jpg" alt="my image" width="300" height="400px">
+
+        <h3>Name: kadavul ajith<br>Email: ajith@gmail.com<br>Mobile No: +9876543210</h3>
+        <h2>Profile</h2>
+        <p>Seeking a challenging position in your organization offering long term career and
+        advancement opportunities in which my abilities can contribute to productivity
+        and profitability.</p>
+        <h2>Education Qualification:</h2>
+        <ul>
+            <li><b>BCA - Bachelor of computer application<br></b>Year of passing - 2023<br>MS University<br>scott College, nagercoil
+            </li>
+        </ul>
+        <ul>
+            <li><b>HSC </b>Year of passing 2019<br>State Board, jenifer school.
+            </li>
+        </ul>
+
+        <ul>
+            <li><b>S.S.S.C </b>Year of passing 2017<br>State Board, josehep school.
+            </li>
+        </ul>
+
+        <h2>SOFTWARE SKILLS</h2>
+        <ul>
+            <li>ASP.NET</li>
+            <li>HTML, CSS</li>
+            <li>Photoshop</li>
+            <li>javascript</li>
+            <li>SQL</li>
+        </ul>
+
+        <h2>PERSONAL DETAILS</h2>
+
+        Name: xxxx<br>
+        Father Name: yyyy<br>
+        Date of birth: 04/07/2000<br>
+        Marriage Status: Unmarried<br>
+        Nationality: Indian<br>
+        Address: nagercoil,<br>
+        under parvathipuram palam,<br>
+        pin: -629 003<br>
+    </body>
+</html>

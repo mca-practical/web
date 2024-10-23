@@ -1,0 +1,44 @@
+ex1     different tags
+ex2     educational details table
+ex3     time table
+ex4     resume
+            |
+            |-->   mypic.jpg
+
+ex5     lists using html
+ex6     story telling
+            |
+            |-->  story1.jpg
+            |-->  stroy2.jpg
+            |-->  story3.jpg
+
+ex7     links
+            |
+            |-->  time table(ex3)
+            |-->  resume(ex4)
+            |-->  lists(ex5)
+
+ex8     image maps
+            |
+            |-->  electronics.jpg
+
+ex9     login form
+            |
+            |-->  registration form(ex11)
+            
+ex10    frameset
+            |
+            |-->  timetable(ex3)
+            |-->  registration(ex11)
+            |-->  lists(ex5)
+
+ex11    registration form
+            |
+            |-->  submit.png
+
+ex12    company details table
+ex13    lists using css
+ex14    simple calculator
+ex15    age calculator
+ex16    upload files and images
+ex17    date time last visited using cookies

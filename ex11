@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Form</title>
+</head>
+<body bgcolor="#CCFF66">
+<form align="center">
+<h3 style="color:#F00">Personal Details</h3>
+Name:
+<input type="text" name="name" id="name"><br><br>
+Password:
+<input type="password" name="password" id="password"><br><br>
+E-mail id:
+<input type="text" name="name" id="name"><br><br>
+Gender:<input type="radio" name="radiogroup1" value="radio" id="radiogroup1"> Male
+<input type="radio" name="radiogroup1" value="radio" id="radiogroup2">Female<br><br>
+Contact:<input type="text" name="mobile" id="mobile">
+<h3 style="color:#F00">Educational Qualification</h3>
+Degree:<select name="degree" id="degree">
+<option selected>
+<option>B.com</option>
+<option>B.sc</option>
+<option>BCA</option>
+<option>B.A</option>
+</select><br>
+<br>
+Engineering:<select name="eng" id="eng">
+<option selected>
+<option>CSE</option>
+<option>ECE</option>
+<option>CIVIL</option>
+<option>EEE</option>
+</select><br>
+<br>
+Hobbies:<input type="checkbox" name="CheckboxGroup1" value="checkbox"
+id="CheckboxGroup1">Reading Books
+<input type="checkbox" name="CheckboxGroup1" value="checkbox"
+id="CheckboxGroup2">Playing Chess<br><br>
+<h3 style="color:#F00">Address</h3>
+<textarea name="textarea" cols="35" rows="5" id="textarea"></textarea><br>
+<br>
+Attach Resume:<input type="file" name="fileField" id="fileField"><br><br>
+<input type="image" width="200px" src="submit.png">
+</form>
+</body>
+</html>

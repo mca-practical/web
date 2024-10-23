@@ -1,0 +1,45 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <div id="login_form">
+        <form name="f1"  action="registration.html" id="f1">
+            <table>
+                <tr>
+                    <td class="f1_label">User Name:</td>
+                   <td> <input type="text" name="username" value="" required></td>
+                </tr>
+                <tr>
+                    <td class="f1_label">Password</td>
+                    <td><input type="password" name:"password" value="" required></td>
+
+                </tr>
+                <tr>
+                    <td><input type="submit" name="login" value="login" style="font-size:18px;" /></td>
+                </tr>
+
+            </table>
+        </form>
+
+    </div>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #login_form{
+            width: 600px;
+            height: 500px;
+            background-color: gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</body>
+
+</html>
